@@ -18,6 +18,4 @@ public class Main {
             inputStreamReader = new InputStreamReader(System.in);
         System.out.println( TradeBuilder.create2(Reader.readData(inputStreamReader)));
     }
-
-
 }
