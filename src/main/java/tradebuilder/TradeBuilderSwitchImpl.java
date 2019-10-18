@@ -1,8 +1,7 @@
 package tradebuilder;
 
-import org.json.JSONException;
-import trade.*;
 import org.json.JSONObject;
+import trade.*;
 
 public class TradeBuilderSwitchImpl implements ITradeBuilder {
     public DealType create(JSONObject json) {

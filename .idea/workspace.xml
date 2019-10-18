@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="170e3d9c-3068-4435-affb-2d00263ab144" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tradebuilder/ITradeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tradebuilder/TradeBuilderEnumImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ITradeBuilderImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TradeBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/trade/DealType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/trade/DealType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/trade/DealTypeEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ReaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ReaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/TradeBuilderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/trade/BondTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/trade/BondTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/trade/CommoditySpotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/trade/CommoditySpotTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/trade/DealTypeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/trade/DealTypeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/trade/FxSpotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/trade/FxSpotTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/trade/IRSwapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/trade/IRSwapTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TradeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tradebuilder/TradeBuilderSwitchImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/trade/DealType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trade/DealType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TradeBuilderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/BondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/BondTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/CommoditySpotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/CommoditySpotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/DealTypeEnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/DealTypeEnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/DealTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/DealTypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/FxSpotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/FxSpotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trade/IRSwapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trade/IRSwapTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -45,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/homework1$Main.ic" NAME="Main Coverage Results" MODIFIED="1571102785201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -88,7 +58,7 @@
           <entry key="class" value="1" />
           <entry key="gradle" value="5" />
           <entry key="gradlew" value="2" />
-          <entry key="java" value="111" />
+          <entry key="java" value="125" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -96,7 +66,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="5" />
-          <entry key="JAVA" value="111" />
+          <entry key="JAVA" value="125" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -120,7 +90,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/trade/IRSwapTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/trade/BondTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
@@ -132,42 +123,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReaderTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/trade/FxSpot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/trade/FxSpotTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ITradeBuilderImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-282">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -175,6 +139,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/trade/IRSwap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -203,16 +176,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/trade/IRSwap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tradebuilder/TradeBuilderSwitchImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -225,12 +189,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/trade/DealTypeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="289">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -569,7 +538,6 @@
         <option value="$PROJECT_DIR$/src/main/java/tradebuilder/ITradeBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/tradebuilder/TradeBuilderEnumImpl.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java" />
         <option value="$PROJECT_DIR$/src/test/java/ReaderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TradeBuilderSwitchImplTest.java" />
@@ -583,6 +551,7 @@
         <option value="$PROJECT_DIR$/src/main/java/trade/DealType.java" />
         <option value="$PROJECT_DIR$/src/main/java/tradebuilder/TradeBuilderSwitchImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -686,6 +655,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -790,14 +760,11 @@
       <workItem from="1571096916447" duration="7156000" />
       <workItem from="1571140709892" duration="4425000" />
       <workItem from="1571234424422" duration="2760000" />
-      <workItem from="1571405244029" duration="5955000" />
+      <workItem from="1571405244029" duration="6456000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReaderTest_readDataFromConsole - 2019.10.15 at 16h 04m 12s.xml">
-      <configuration name="ReaderTest.readDataFromConsole" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReaderTest_readDataFromConsole - 2019.10.15 at 16h 04m 23s.xml">
       <configuration name="ReaderTest.readDataFromConsole" configurationId="JUnit" />
     </history-entry>
@@ -825,9 +792,12 @@
     <history-entry file="All_in_homework1_test - 2019.10.18 at 17h 44m 05s.xml">
       <configuration name="All in homework1_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_homework1_test - 2019.10.18 at 18h 08m 12s.xml">
+      <configuration name="All in homework1_test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20736000" />
+    <option name="totallyTimeSpent" value="21237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -933,77 +903,6 @@
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/FxSpot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/CommoditySpot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/Bond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/trade/BondTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/trade/CommoditySpotTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1031,26 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/trade/FxSpotTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/trade/IRSwapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ITradeBuilderImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-282">
@@ -1068,6 +947,80 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trade/IRSwapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trade/FxSpotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/Bond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/CommoditySpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/DealType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/FxSpot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trade/IRSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1091,10 +1044,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trade/IRSwap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/trade/BondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1102,16 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

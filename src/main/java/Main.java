@@ -5,7 +5,6 @@ import tradebuilder.TradeBuilderSwitchImpl;
 import java.io.*;
 
 public class Main {
-
     public static void main(String args[]) throws Exception {
         try (InputStreamReader inputStreamReader = new InputStreamReader(
                 args.length > 0 ? new FileInputStream(new File(args[0])) : System.in)) {
