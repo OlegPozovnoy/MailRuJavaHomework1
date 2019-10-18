@@ -5,15 +5,18 @@ public enum DealTypeEnum {
         public DealType create(double price) {
             return new Bond(price);
         }
-    }, COMMODITY_SPOT {
+    },
+    COMMODITY_SPOT {
         public DealType create(double price) {
             return new CommoditySpot(price);
         }
-    }, FX_SPOT {
+    },
+    FX_SPOT {
         public DealType create(double price) {
             return new FxSpot(price);
         }
-    }, IR_SWAP {
+    },
+    IR_SWAP {
         public DealType create(double price) {
             return new IRSwap(price);
         }

@@ -1,7 +1,6 @@
 package trade;
 
-import com.sun.corba.se.spi.transport.TransportDefault;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -11,5 +10,6 @@ class BondTest {
         Bond bond = new Bond(100);
         assertNotNull(bond);
         assertTrue(bond instanceof DealType);
+        assertEquals(100, bond.getPrice());
     }
 }
