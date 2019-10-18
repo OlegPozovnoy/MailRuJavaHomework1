@@ -9,7 +9,6 @@ import java.io.InputStreamReader;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ReaderTest {
-
     @Test
     void readData() throws IOException {
         String str = "o: {a:b, c:d}";

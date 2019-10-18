@@ -1,21 +1,20 @@
+import tradebuilder.ITradeBuilder;
+import tradebuilder.TradeBuilderEnumImpl;
+import tradebuilder.TradeBuilderSwitchImpl;
+
 import java.io.*;
 
 public class Main {
-
     public static void main(String args[]) throws Exception {
+        try (InputStreamReader inputStreamReader = new InputStreamReader(
+                args.length > 0 ? new FileInputStream(new File(args[0])) : System.in)) {
 
-        InputStreamReader inputStreamReader;
-        if (args.length > 0)
-            inputStreamReader = new InputStreamReader(new FileInputStream(new File(args[0])));
-        else
-            inputStreamReader = new InputStreamReader(System.in);
-
-        System.out.println(TradeBuilder.create1(Reader.readData(inputStreamReader)));
-
-        if (args.length > 0)
-            inputStreamReader = new InputStreamReader(new FileInputStream(new File(args[0])));
-        else
-            inputStreamReader = new InputStreamReader(System.in);
-        System.out.println( TradeBuilder.create2(Reader.readData(inputStreamReader)));
+            //testing switch Trade builder
+            ITradeBuilder tradeBuilder = new TradeBuilderSwitchImpl();
+            System.out.println(tradeBuilder.create(Reader.readData(inputStreamReader)));
+            //testing enum TradeBuilder
+            tradeBuilder = new TradeBuilderEnumImpl();
+            System.out.println(tradeBuilder.create(Reader.readData(inputStreamReader)));
+        }
     }
 }
